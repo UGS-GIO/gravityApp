@@ -4,3 +4,15 @@ Description:
   
 Testing URL:
   https://geology.utah.gov/apps/<fillin>
+
+Project Manager: 
+Marshall Robinson
+
+Product Manager:
+Christian Hardwick
+
+Data Manager:
+Martha Jensen
+
+Developer:
+Jay Hill
