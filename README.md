@@ -4,7 +4,3 @@ Description:
   
 Testing URL:
   https://geology.utah.gov/apps/<fillin>
-
-Project Requirements:
-  Calcite template
-   
