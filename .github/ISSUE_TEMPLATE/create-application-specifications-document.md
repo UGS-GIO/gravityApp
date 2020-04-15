@@ -7,8 +7,8 @@ assignees: ''
 
 ---
 
-Meet with Marshall and Jay to discuss application.
-Things to include in document:
+Meet with Marshall, Martha and Jay to discuss application.
+Things to include in [document](https://github.com/UGS-GIO/repo/wiki/Application-Requirements):
 - [ ] What data layer(s) do you want? (point/polygon/line/raster)
 - [ ] What do you want the popups to look like?
 - [ ] What attributes do you want shown in the popups?
@@ -16,4 +16,4 @@ Things to include in document:
 - [ ] What kind of search functionality do you need (if any)?
 - [ ] Please outline any other functionality you require in this document
 
-Get final sign-off by Marshall and post document to github.
+Marshall will provide final sign-off of this [document](https://github.com/UGS-GIO/repo/wiki/Application-Requirements) after you have left a comment on this issue saying it's ready for final review.

@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-Things to include in document (see qFaults application for good template):
+Things to include in [document ](https://github.com/UGS-GIO/repo/wiki/About-Panel-(for-review))(see qFaults application for good template):
 - [ ] About Application (required)
 - [ ] Related Information (e.g. links)
 - [ ] Database Contents (optional - also can be in own panel)
@@ -16,7 +16,7 @@ Things to include in document (see qFaults application for good template):
 - [ ] Disclaimer (also can be in own panel)
 - [ ] Application Instructions
 
-Have this document reviewed by the following people BEFORE submitting to Jay
+Have this [document ](https://github.com/UGS-GIO/repo/wiki/About-Panel-(for-review))reviewed by the following people BEFORE submitting to developer
 - [ ] Reviewed by Product Manager ()
 - [ ] Reviewed by Program Manager ()
 - [ ] Reviewed by Technical Reviewer (Steph C)

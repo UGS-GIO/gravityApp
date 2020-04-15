@@ -7,7 +7,7 @@ assignees: marthajensen
 
 ---
 
-<> and Martha need to set up database together.
+Product Manager () and Martha need to set up database together.
 Things to include in document:
 - [ ] Database design
 - [ ] Database name
